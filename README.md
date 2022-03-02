@@ -2,8 +2,8 @@
 
 > Использование GitHub Actions для непрерывной интеграции и доставки
 
-## [link](/introduction/index.md)
+## [Введение](/introduction/index.md)
 
-## [link](/ci/index.md)
+## [Continuous Integration](/ci/index.md)
 
-## [link](/cd/index.md)
+## [Continuous Deployment](/cd/index.md)
