@@ -8,6 +8,4 @@
 
 ## [Continuous Deployment](/cd)
 
-<script>
-console.log(123)
-</script>
+[html](/foo.html)
