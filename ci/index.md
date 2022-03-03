@@ -1,4 +1,4 @@
-# CI
+# Continuous Integration
 
 ---
 ## [На главную](/)

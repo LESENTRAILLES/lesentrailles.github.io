@@ -2,8 +2,12 @@
 
 > Использование GitHub Actions для непрерывной интеграции и доставки
 
-## [Введение](/introduction/index.md)
+## [Введение](/introduction)
 
-## [Continuous Integration](/ci/index.md)
+## [Continuous Integration](/ci)
 
-## [Continuous Deployment](/cd/index.md)
+## [Continuous Deployment](/cd)
+
+<script>
+console.log(123)
+</script>
